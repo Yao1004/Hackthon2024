@@ -16,8 +16,9 @@ abstract final class TrendingServiceModel {
       ),
       TrendingService(
         icon: Assets.svg.iconLocationSearch.svg(),
-        title: '施工資訊',
-        url: '',
+        title: '降雨報報',
+        url: 'http://10.0.2.2:54088/',
+        //url: 'https://4da9-211-23-28-236.ngrok-free.app/',
       ),
       // 在此列表後加入新熱門按鈕
       // add new trending service button here
