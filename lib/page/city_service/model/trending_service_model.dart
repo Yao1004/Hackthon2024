@@ -11,7 +11,7 @@ abstract final class TrendingServiceModel {
       ),
       TrendingService(
         icon: Assets.svg.iconLocationSearch.svg(),
-        title: '降雨報報',
+        title: '即時雨晴',
         //url: 'http://10.0.2.2:54088/',
         url: 'https://b975-211-23-28-236.ngrok-free.app'
       ),
